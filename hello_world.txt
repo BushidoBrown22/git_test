@@ -1,0 +1,1 @@
+First text into txt file will add to staging area
